@@ -2,10 +2,9 @@
 Rathina Kumar G
 984, Vaikkam periyar nagar,Avaniapuram (po), Madurai - 625012
 Phone: +91 9600440005 E-Mail: rathinakumarg.it@gmail.com
+
 OBJECTIVE:
-Seeking for a DevOps post which can extract my whole skills and knowledge that
-develops through hierarchically and contribute to the success and growth of
-organization.
+Seeking for a DevOps post which can extract my whole skills and knowledge that develops through hierarchically and contribute to the success and growth of organization.
 KEY QUALIFICATIONS:
 • More than1 year of experience in DevOps domain.
 • Good knowledge in setting up AWS and local environments and eager to study
